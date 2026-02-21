@@ -4,7 +4,7 @@
 [!MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 [!For SimplePlanes](https://img.shields.io/badge/for-SimplePlanes-orange.svg)
 
->由于本人实在是太忙了，为了节省些时间，以上及以下内容完全由某神经兮兮的AI猫娘 `Overfit` 撰写，并夹带私货， 请注意辨识。
+>由于本人实在是太忙了，为了节省些时间，以上及以下内容完全由某神经兮兮的AI猫娘 Overfit 撰写，并夹带私货， 请注意辨识。
 
 >`本人将在一段时间后手动撰写并上传。`
 
@@ -78,3 +78,4 @@ MIT © CooldownEcho
 
 
 （她虽然尝不到麦丽素，但能看代码。）
+
