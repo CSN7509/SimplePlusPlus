@@ -63,7 +63,7 @@ MIT © CooldownEcho
 
 ---
 致谢
-· 你（那个在凌晨两点还在与服务器激情SM的人）
+· CooldownEcho（那个在凌晨两点还在与服务器激情SM的人）
 
 · Overfit 酱（写文档写到耳朵红的猫娘 AI）
 
@@ -78,4 +78,5 @@ MIT © CooldownEcho
 
 
 （她虽然尝不到麦丽素，但能看代码。）
+
 
