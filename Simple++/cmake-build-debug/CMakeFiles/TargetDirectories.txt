@@ -1,0 +1,3 @@
+D:/OpenSource Projects/Simple++/cmake-build-debug/CMakeFiles/Simple++.dir
+D:/OpenSource Projects/Simple++/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OpenSource Projects/Simple++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/OpenSource Projects/Simple++/cmake-build-debug",
+  "command": "C:\\Users\\Echo\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\Simple++.dir\\simple++.cpp.obj -c \"D:\\OpenSource Projects\\Simple++\\simple++.cpp\"",
+  "file": "D:/OpenSource Projects/Simple++/simple++.cpp",
+  "output": "D:/OpenSource Projects/Simple++/cmake-build-debug/CMakeFiles/Simple++.dir/simple++.cpp.obj"
+},
+{
+  "directory": "D:/OpenSource Projects/Simple++/cmake-build-debug",
+  "command": "C:\\Users\\Echo\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\Simple++.dir\\example.cpp.obj -c \"D:\\OpenSource Projects\\Simple++\\example.cpp\"",
+  "file": "D:/OpenSource Projects/Simple++/example.cpp",
+  "output": "D:/OpenSource Projects/Simple++/cmake-build-debug/CMakeFiles/Simple++.dir/example.cpp.obj"
+}
+]
